@@ -1,0 +1,3 @@
+FEATURES ADDED:
+1_Elevator_functions
+2_Design-Choices
